@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <a href="https://montenegroengcomp.github.io/Travelgram/"><img alt="Ver projeto online" src="https://img.shields.io/badge/ver%20projeto-online-FF0C46?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=2B485A"></a>
+</p>
+
+<p align="center">
   <a href="#demonstração-visual">Demonstração visual</a> •
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#responsividade">Responsividade</a> •
@@ -30,6 +34,8 @@
 Página de perfil de uma viajante em uma rede social de fotos de viagem.
 
 O projeto foi construído apenas com **HTML semântico** e **CSS**, sem frameworks nem JavaScript, com foco em organização de estilos, design tokens e layout responsivo com Flexbox e CSS Grid.
+
+🔗 **Acesse:** https://montenegroengcomp.github.io/Travelgram/
 
 ## Demonstração visual
 
@@ -130,7 +136,9 @@ O projeto não tem dependências nem etapa de build.
 
 ## Execução
 
-Clone o repositório:
+O projeto está publicado no GitHub Pages: https://montenegroengcomp.github.io/Travelgram/
+
+Para executar localmente, clone o repositório:
 
 ```bash
 git clone https://github.com/MontenegroEngComp/Travelgram.git
