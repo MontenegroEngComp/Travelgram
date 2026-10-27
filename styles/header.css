@@ -45,3 +45,40 @@ header .container{
     align-items: center;
     gap: 8px;
 }
+
+@media (max-width: 900px) {
+    header .container{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 32px;
+    }
+
+    #info{
+        width: auto;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px 32px;
+    }
+}
+
+@media (max-width: 600px) {
+    header .container{
+        align-items: center;
+    }
+
+    #profile{
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+        text-align: center;
+    }
+
+    #profile img{
+        width: 128px;
+        height: 128px;
+    }
+
+    #profile br{
+        display: none;
+    }
+}
